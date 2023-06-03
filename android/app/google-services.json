@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180539795026",
+    "project_id": "pisyadmin-dd337",
+    "storage_bucket": "pisyadmin-dd337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180539795026:android:856c791e54d9f958e2618b",
+        "android_client_info": {
+          "package_name": "com.example.pisyadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4TaqZvX4E-_elF8_87W91GiMp0Q2x60g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
